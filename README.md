@@ -17,6 +17,7 @@
 - [University of Maryland- Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/certificate/VJQ7TX8EYKY4)
 - [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/3e9008c8-5658-4285-b720-4764d3fc9792)
 - [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/11190b5a-e721-4ae7-8741-a771bcc6d412/public_url)
+- [Cisco Cyber Threat Management](https://www.credly.com/badges/d6dc8cd5-f3a1-46a2-8455-eff9954d7af4/public_url)
 
 
 

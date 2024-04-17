@@ -1,5 +1,6 @@
 <h1>Hi, I'm Adepoju Abikoye! <br/><a href="https://www.linkedin.com/in/pojuindacut/">Cybersecurity Professional</a></h1>
 
+Experienced cybersecurity enthusiast with a robust foundation in project management and sales. Possesses a Postgraduate Diploma in Public Relations and Advertising along with a Bachelor of Science in Business Administration. Currently pursuing certifications in CompTIA Security+ and ISC2 Certified in Cybersecurity, complemented by proficiency in NIST Cybersecurity Framework and network traffic analysis. Demonstrates a commitment to continuous learning with multiple cybersecurity trainings and certifications.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Conduct a security audit](https://docs.google.com/document/d/1KKzs74LzgCGxU75xGj7lFPDxAitoc0OzJep0tJt4CUU/edit?usp=sharing)
